@@ -1,9 +1,9 @@
 package cubs
 
-func Meow() {
+func Meow() string {
 	return "meow meow 😾"
 }
 
-func Bark() {
+func Bark() string {
 	return "woof wook 🐶"
 }

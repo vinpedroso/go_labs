@@ -1,11 +1,9 @@
 package cubs
 
-import "fmt"
-
 func Meow() {
-	fmt.Println("meow meow 😾")
+	return "meow meow 😾"
 }
 
 func Bark() {
-	fmt.Println("woof wook 🐶")
+	return "woof wook 🐶"
 }

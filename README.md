@@ -1,2 +1,2 @@
 # go_labs
-playing around with goland
+playing around with golang

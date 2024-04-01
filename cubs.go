@@ -1,6 +1,6 @@
 package cubs
 
-func meow() string {
+func Meow() string {
 	return "meow meow 😾"
 }
 
